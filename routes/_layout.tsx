@@ -5,6 +5,7 @@ export default async function handler(req: Request, c: FreshContext) {
         <div>
             Soy layout, 
             <c.Component/>
+            Lolalolitaa
         </div>
     )
 }
