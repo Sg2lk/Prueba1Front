@@ -1,9 +1,9 @@
-import Hola from "../islands/Hola.tsx";
+import ShowSpells from "../islands/ShowSpells.tsx";
 
 export default function Home() {
   return (
     <div>
-    <Hola/>
+    <ShowSpells/>
     </div>
   );
 }
